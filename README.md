@@ -17,7 +17,7 @@
 	- 利用雲型影響特徵和氣象數據建構短時效天氣預測模型與應用 （專題）
 	- 購物網站實作（ ReactJS + SQL )
 	- 基於 PTSD 框架之遊戲程式設計實作
- - CPBL Fantasy 經理人遊戲實作（ React + Next.js )
+ 	- CPBL Fantasy 經理人遊戲實作（ React + Next.js )
 
 - 檢定
 	- APCS 大學程式先修檢測 觀念 4 級分 實作 3 級分
